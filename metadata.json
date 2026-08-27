@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Kasir & Penjualan POS",
+  "description": "Sistem POS terintegrasi dengan pencatatan penjualan, manajemen stok otomatis, riwayat transaksi, dan dashboard laporan keuangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
